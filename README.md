@@ -1,3 +1,3 @@
-#Pokedex da trilha de JavaScript da DIO
+# Pokedex da trilha de JavaScript da DIO
 
-###Projeto feito em acompanhamento do curso
+### Projeto feito em acompanhamento do curso
